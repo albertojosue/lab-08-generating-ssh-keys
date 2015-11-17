@@ -1,1 +1,1 @@
-# lab-08-generating-ssh-keys
+THis is lab 8. It's about SSH.
